@@ -20,6 +20,7 @@ public class Main {
 		System.out.println("4th commit");
 		System.out.println("5th commit");
 		System.out.println("salamun");
+		System.out.println("solomon");
 	}
 	
 }
